@@ -1,0 +1,2 @@
+# Module eu.europa.ec.jrc.euosme.gwt.EUOSMEGWT.JUnit
+# RPC service class, partial path of RPC policy file

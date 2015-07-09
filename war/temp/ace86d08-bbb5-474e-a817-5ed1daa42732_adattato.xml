@@ -1,0 +1,791 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:geonet="http://www.fao.org/geonetwork">
+<gmd:fileIdentifier>
+<gco:CharacterString>ace86d08-bbb5-474e-a817-5ed1daa42732</gco:CharacterString>
+</gmd:fileIdentifier>
+<gmd:language>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng">eng</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeSpace="ISOTC211/19115" codeListValue="utf8" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:contact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Juliette Dujardin</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Juliette Dujardin</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Juliette Dujardin</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Juliette Dujardin</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:individualName>
+<gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing">
+</gmd:facsimile>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Avenue des Arts 10-11</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Avenue des Arts 10-11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Kunstlaan 10-11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Avenue des Arts 10-11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussels</gco:CharacterString>
+</gmd:city>
+<gmd:administrativeArea gco:nilReason="missing">
+</gmd:administrativeArea>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>Belgium</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:contact>
+<gmd:dateStamp>
+<gco:DateTime>2015-03-13T12:04:04</gco:DateTime>
+</gmd:dateStamp>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19115:2003/19139</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>1.0</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:locale>
+<gmd:PT_Locale id="FRE">
+<gmd:languageCode>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre">fre</gmd:LanguageCode>
+</gmd:languageCode>
+</gmd:PT_Locale>
+</gmd:locale>
+<gmd:locale>
+<gmd:PT_Locale id="GER">
+<gmd:languageCode>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="ger">ger</gmd:LanguageCode>
+</gmd:languageCode>
+</gmd:PT_Locale>
+</gmd:locale>
+<gmd:locale>
+<gmd:PT_Locale id="DUT">
+<gmd:languageCode>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="dut">dut</gmd:LanguageCode>
+</gmd:languageCode>
+</gmd:PT_Locale>
+</gmd:locale>
+<gmd:referenceSystemInfo>
+<gmd:MD_ReferenceSystem>
+<gmd:referenceSystemIdentifier>
+<gmd:RS_Identifier>
+<gmd:code>
+<gco:CharacterString>Belge 1972 / Belgian Lambert 72 (EPSG:31370)</gco:CharacterString>
+</gmd:code>
+<gmd:codeSpace>
+<gco:CharacterString>EPSG</gco:CharacterString>
+</gmd:codeSpace>
+<gmd:version>
+<gco:CharacterString>7.9</gco:CharacterString>
+</gmd:version>
+</gmd:RS_Identifier>
+</gmd:referenceSystemIdentifier>
+</gmd:MD_ReferenceSystem>
+</gmd:referenceSystemInfo>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Air quality zones for Belgium - 2013</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Zones de qualité d&apos;air en Belgique - 2013</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Luftqualitätsgebieten in Belgien - 2013</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Luchtkwaliteitszones voor België - 2013</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:title>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2014-09-25T00:00:00</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+<gmd:presentationForm>
+<gmd:CI_PresentationFormCode codeListValue="mapDigital" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_PresentationFormCode">mapDigital</gmd:CI_PresentationFormCode>
+</gmd:presentationForm>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>The zones are used as reporting units of the air quality in Belgium. These zones are defined based on Article 3 of the 2004/107/EC Directive and Article 4 of the 2008/50/EC Directive. A zones shall mean a part of the territory of a Member State, as delimited by that Member State for the purposes of air quality assessment and management (source: 2008/50/EC). 2008/50/EC Article 4: Establishment of zones and agglomerations: Member States shall establish zones and agglomerations throughout their territory. Air quality assessment and air quality management shall be carried out in all zones and agglomerations.</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">De zones worden als rapporteringseenheden gebruikt voor de luchtkwaliteit van België naar de EU toe. Deze zones zijn gedefinieerd op basis van het Artikel 3 van de Kaderrichtlijn 2004/107/EG en het Artikel 4 van de Kaderrichtlijn 2008/50/EG, waarin beschreven staat hoe de beoordeling en het beheer van de luchtkwaliteit in het volgend kalenderjaar uitgevoerd zal worden. Een zone is een door een lidstaat met het oog op de beoordeling en het beheer van de luchtkwaliteit afgebakend gedeelte van zijn grondgebied (bron: 2008/50/EC). 2008/50/EC Artikel 4: Aanwijzing van zones en agglomeraties: De lidstaten wijzen voor hun hele grondgebied zones en agglomeraties aan. In alle zones en agglomeraties vinden luchtkwaliteitsbeoordeling en luchtkwaliteitsbeheer plaats.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">The zones are used as reporting units of the air quality in Belgium. These zones are defined based on Article 3 of the 2004/107/EG Directive and Article 4 of the 2008/50/EG Directive. A zones shall mean a part of the territory of a Member State, as delimited by that Member State for the purposes of air quality assessment and management (source: 2008/50/EC).</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Une zone est une partie du territoire d&apos;un Etat membre délimitée par lui aux fins de l&apos;évaluation et de la gestion de la qualité de l&apos;air (source: 2008/50/CE). 2008/50/CE Article 4: Etablissement de zones et des agglomerations: Les Etats membres établissent des zones et des agglomérations sur l&apos;ensemble du territoire. L&apos;évaluationde la qualité de l&apos;air et la gestion de la qualité de l&apos;air sont effectuées dans toutes les zones et agglomérations.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:abstract>
+<gmd:purpose>
+<gco:CharacterString>It is necessary for the Member States and the Commission to collect, exchange and disseminate air quality information in order to understand better the impacts of air pollution and develop appropriate policies. Up-to-date information on concentrations of all regulated pollutants in ambient air should also be readily available to the public. In order to facilitate the handling and comparison of air quality information, data should be made available to the Commission in a standardised form. (Directive 2008/50/EC). The zones are used as reporting units of the air quality in Belgium.</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Het is noodzakelijk dat de lidstaten en de Commissie gegevens over de luchtkwaliteit verzamelen, uitwisselen en verspreiden om een beter inzicht te verkrijgen in de gevolgen van de luchtverontreiniging en om een passend beleid te ontwikkelen. Ook dient het publiek gemakkelijk te kunnen beschikken over bijgewerkte gegevens over de concentraties van alle gereguleerde verontreinigende stoffen in de lucht. Om de verwerking en vergelijking van gegevens over de luchtkwaliteit te vergemakkelijken, dienen de gegevens in gestandaardiseerde vorm aan de Commissie te worden verstrekt.(Richtlijn 2008/50/EG). De zones worden als rapporteringseenheden gebruikt voor de luchtkwaliteit van België naar de EU toe.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Il est nécessaire que les États membres et la Commission collectent, échangent et diffusent les informations sur la qualité de l’air afin de mieux comprendre les incidences de la pollution atmosphérique et d’établir des politiques appropriées. Le public devrait pouvoir accéder facilement à des informations actualisées sur les concentrations dans l’air ambiant de tous les polluants réglementés. Pour faciliter le traitement et la comparaison des informations sur la qualité de l’air, les données devraient être communiquées à la Commission sous une forme normalisée. (Directive 2008/50/CE). Une zone est une partie du territoire d&apos;un Etat membre délimitée par lui aux fins de l&apos;évaluation et de la gestion de la qualité de l&apos;air.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Die Mitgliedstaaten und die Kommission müssen Informationen über die Luftqualität sammeln, austauschen und verbreiten, damit die Kenntnisse über die Auswirkungen der Luftverschmutzung erweitert und geeignete Strategien entwickelt werden können. Zu den aktuellen Informationen über die Konzentrationen aller regulierten Schadstoffe in der Luft sollte auch die Öffentlichkeit problemlos Zugang haben. Die Daten sind der Kommission in standardisierter Form zu übermitteln, um die Verarbeitung und den Vergleich der Informationen über die Luftqualität zu erleichtern. (Richtlinie 2008/50/EG)</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:purpose>
+<gmd:status>
+<gmd:MD_ProgressCode codeListValue="completed" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ProgressCode">completed</gmd:MD_ProgressCode>
+</gmd:status>
+<gmd:pointOfContact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:individualName>
+<gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Avenue des Arts 10 – 11</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Avenue des Arts 10 – 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Kunstlaan 10 – 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Avenue des Arts 10 – 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussels</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>Belgium</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:pointOfContact>
+<gmd:pointOfContact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:individualName>
+<gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Avenue des Arts 10 – 11</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Avenue des Arts 10 – 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Kunstlaan 10 – 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Avenue des Arts 10 – 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussels</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>Belgium</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:pointOfContact>
+<gmd:pointOfContact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Frans Fierens</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:individualName>
+<gmd:organisationName xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">IRCEL-CELINE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Avenue des Arts 10 – 11</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Avenue des Arts 10 – 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Kunstlaan 10 - 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Avenue des Arts 10 – 11</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussels</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>Belgium</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeListValue="owner" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#CI_RoleCode">owner</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:pointOfContact>
+<gmd:resourceMaintenance>
+<gmd:MD_MaintenanceInformation>
+<gmd:maintenanceAndUpdateFrequency>
+<gmd:MD_MaintenanceFrequencyCode codeListValue="asNeeded" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+</gmd:maintenanceAndUpdateFrequency>
+</gmd:MD_MaintenanceInformation>
+</gmd:resourceMaintenance>
+<gmd:graphicOverview>
+<gmd:MD_BrowseGraphic>
+<gmd:fileName gco:nilReason="missing"/>
+<gmd:fileDescription>
+<gco:CharacterString>thumbnail</gco:CharacterString>
+</gmd:fileDescription>
+</gmd:MD_BrowseGraphic>
+</gmd:graphicOverview>
+<gmd:graphicOverview>
+<gmd:MD_BrowseGraphic>
+<gmd:fileName gco:nilReason="missing"/>
+<gmd:fileDescription>
+<gco:CharacterString>large_thumbnail</gco:CharacterString>
+</gmd:fileDescription>
+</gmd:MD_BrowseGraphic>
+</gmd:graphicOverview>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>air</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Luft</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">lucht</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">air</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue="theme">theme</gmd:MD_KeywordTypeCode>
+</gmd:type>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>air quality</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Luftqualität</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">luchtkwaliteit</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">qualité de l&apos;air</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Implementing Decision 2011/850/EU</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Décision d&apos;éxécution 2011/850/EU</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Durchführungsbeschluss 2011/850/EU</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Uitvoeringsbesluit 2011/850/EU</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>EU Directive 2008/50/EC</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Europäische Richtlinie 2008/50/EG</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Europese richtlijn 2008/50/EG</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Directive Européenne 2008/50/CE</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>air quality plans</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">air quality plans</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">luchtkwaliteitsplannen</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">plans de qualité d&apos;air</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>environmental monitoring facilities</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">installations de suivi environnemental</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Umweltüberwachung</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">milieubewakingsvoorzieningen</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>protection of human health</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Gesunheidsschuts</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">bescherming volksgezondheid</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">protection de la santé</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Dataflow B</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Dataflow B</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Dataflow B</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Dataflow B</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword gco:nilReason="" xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>Belgium</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">Belgien</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">België</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Belgique</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:keyword>
+<gmd:type>
+<gmd:MD_KeywordTypeCode codeListValue="place" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode">place</gmd:MD_KeywordTypeCode>
+</gmd:type>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:spatialRepresentationType>
+<gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+</gmd:spatialRepresentationType>
+<gmd:spatialResolution>
+<gmd:MD_Resolution>
+<gmd:equivalentScale>
+<gmd:MD_RepresentativeFraction>
+<gmd:denominator>
+<gco:Integer>1500000</gco:Integer>
+</gmd:denominator>
+</gmd:MD_RepresentativeFraction>
+</gmd:equivalentScale>
+</gmd:MD_Resolution>
+</gmd:spatialResolution>
+<gmd:language>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="eng">eng</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeListValue="utf8" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:topicCategory>
+<gmd:MD_TopicCategoryCode>climatologyMeteorologyAtmosphere</gmd:MD_TopicCategoryCode>
+</gmd:topicCategory>
+<gmd:extent>
+<gmd:EX_Extent>
+<gmd:geographicElement>
+<gmd:EX_GeographicBoundingBox>
+<gmd:westBoundLongitude>
+<gco:Decimal>2.54167</gco:Decimal>
+</gmd:westBoundLongitude>
+<gmd:eastBoundLongitude>
+<gco:Decimal>6.3982</gco:Decimal>
+</gmd:eastBoundLongitude>
+<gmd:southBoundLatitude>
+<gco:Decimal>49.50888</gco:Decimal>
+</gmd:southBoundLatitude>
+<gmd:northBoundLatitude>
+<gco:Decimal>51.50125</gco:Decimal>
+</gmd:northBoundLatitude>
+</gmd:EX_GeographicBoundingBox>
+</gmd:geographicElement>
+<gmd:temporalElement>
+<gmd:EX_TemporalExtent>
+<gmd:extent>
+<gml:TimePeriod gml:id="d1e468a1049886">
+<gml:beginPosition>2013-01-01T00:00:00</gml:beginPosition>
+<gml:endPosition>2013-12-31T00:00:00</gml:endPosition>
+</gml:TimePeriod>
+</gmd:extent>
+</gmd:EX_TemporalExtent>
+</gmd:temporalElement>
+</gmd:EX_Extent>
+</gmd:extent>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+<gmd:distributionInfo>
+<gmd:MD_Distribution>
+<gmd:distributionFormat>
+<gmd:MD_Format>
+<gmd:name>
+<gco:CharacterString>unknown</gco:CharacterString>
+</gmd:name>
+<gmd:version>
+<gco:CharacterString>unknown</gco:CharacterString>
+</gmd:version>
+</gmd:MD_Format>
+</gmd:distributionFormat>
+<gmd:transferOptions>
+<gmd:MD_DigitalTransferOptions>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://geo.irceline.be/wms</gmd:URL>
+</gmd:linkage>
+<gmd:protocol>
+<gco:CharacterString>OGC:WMS</gco:CharacterString>
+</gmd:protocol>
+<gmd:name>
+<gco:CharacterString>realtime:air_quality_zone</gco:CharacterString>
+</gmd:name>
+<gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>The zones are used as reporting units of the air quality in Belgium.</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Une zone est une partie du territoire d&apos;un Etat membre délimitée par lui aux fins de l&apos;évaluation et de la gestion de la qualité de l&apos;air.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">The zones are used as reporting units of the air quality in Belgium.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">De zones worden als rapporteringseenheden gebruikt voor de luchtkwaliteit van België naar de EU toe.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:description>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://geo.irceline.be/wfs</gmd:URL>
+</gmd:linkage>
+<gmd:protocol>
+<gco:CharacterString>OGC:WFS</gco:CharacterString>
+</gmd:protocol>
+<gmd:name>
+<gmx:MimeFileType type="">realtime:air_quality_zone</gmx:MimeFileType>
+</gmd:name>
+<gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>The zones are used as reporting units of the air quality in Belgium.</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">The zones are used as reporting units of the air quality in Belgium.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">De zones worden als rapporteringseenheden gebruikt voor de luchtkwaliteit van België naar de EU toe.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Une zone est une partie du territoire d&apos;un Etat membre délimitée par lui aux fins de l&apos;évaluation et de la gestion de la qualité de l&apos;air.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:description>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://cdr.eionet.europa.eu/be/eu/aqd/b/envvcsfzg/BE_B_Zones_2013.xml</gmd:URL>
+</gmd:linkage>
+<gmd:protocol>
+<gco:CharacterString>OGC:GML</gco:CharacterString>
+</gmd:protocol>
+<gmd:name>
+<gco:CharacterString>air quality zone</gco:CharacterString>
+</gmd:name>
+<gmd:description xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>The zones are used as reporting units of the air quality in Belgium.</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">The zones are used as reporting units of the air quality in Belgium.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">De zones worden als rapporteringseenheden gebruikt voor de luchtkwaliteit van België naar de EU toe.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Une zone est une partie du territoire d&apos;un Etat membre délimitée par lui aux fins de l&apos;évaluation et de la gestion de la qualité de l&apos;air.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:description>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+</gmd:MD_DigitalTransferOptions>
+</gmd:transferOptions>
+</gmd:MD_Distribution>
+</gmd:distributionInfo>
+<gmd:dataQualityInfo>
+<gmd:DQ_DataQuality>
+<gmd:scope>
+<gmd:DQ_Scope>
+<gmd:level>
+<gmd:MD_ScopeCode codeListValue="dataset" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/ML_gmxCodelists.xml#MD_ScopeCode">dataset</gmd:MD_ScopeCode>
+</gmd:level>
+</gmd:DQ_Scope>
+</gmd:scope>
+<gmd:report>
+<gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+<gmd:result>
+<gmd:DQ_ConformanceResult xsi:type="gmd:DQ_ConformanceResult_Type">
+<gmd:explanation>
+<gco:CharacterString>See the referenced specification</gco:CharacterString>
+</gmd:explanation>
+<gmd:pass gco:nilReason="template"/>
+</gmd:DQ_ConformanceResult>
+</gmd:result>
+</gmd:DQ_DomainConsistency>
+</gmd:report>
+<gmd:lineage>
+<gmd:LI_Lineage>
+<gmd:statement xsi:type="gmd:PT_FreeText_PropertyType">
+<gco:CharacterString>The dataset is created in the context of the 2008/50/EC Framework Directive. The Belgian territory is devided into zones according to the instructions listed in the 2008/50/EC Directive.</gco:CharacterString>
+<gmd:PT_FreeText>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#DUT">Dataset is aangemaakt in het kader van de 2008/50/EC kaderrichtlijn. Het Belgisch grondgebied is onderverdeeld in luchtkwaliteitszones volgens de aanwijzingen opgelijst in de 2008/50/EC kaderrichtlijn.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#FRE">Les données ont été créées dans le cadre de la Directive 2008/50/CE. Le territoire belge est divisé en zones selon les indications mentionnées dans le Directive 2008/50/EC.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+<gmd:textGroup>
+<gmd:LocalisedCharacterString locale="#GER">The dataset is created in the context of the 2008/50/EC Framework Directive. The Belgian territory is devided into zones according to the instructions listed in the 2008/50/EC Directive.</gmd:LocalisedCharacterString>
+</gmd:textGroup>
+</gmd:PT_FreeText>
+</gmd:statement>
+</gmd:LI_Lineage>
+</gmd:lineage>
+</gmd:DQ_DataQuality>
+</gmd:dataQualityInfo>
+</gmd:MD_Metadata>

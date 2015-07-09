@@ -1,0 +1,59 @@
+{  
+   "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values",
+   "value":[  
+      {  
+         "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/1/",
+         "code":"vector",
+         "idCl":{  
+            "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/1/idCl/"
+         },
+         "id":"1",
+         "name":"vector data is used to represent geographic data"
+      },
+      {  
+         "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/2/",
+         "code":"grid",
+         "idCl":{  
+            "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/2/idCl/"
+         },
+         "id":"2",
+         "name":"grid data is used to represent geographic data"
+      },
+      {  
+         "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/3/",
+         "code":"textTable",
+         "idCl":{  
+            "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/3/idCl/"
+         },
+         "id":"3",
+         "name":"textual or tabular data is used to represent geographic data"
+      },
+      {  
+         "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/4/",
+         "code":"tin",
+         "idCl":{  
+            "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/4/idCl/"
+         },
+         "id":"4",
+         "name":"triangulated irregular network"
+      },
+      {  
+         "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/5/",
+         "code":"stereoModel",
+         "idCl":{  
+            "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/5/idCl/"
+         },
+         "id":"5",
+         "name":"three-dimensional view formed by the intersecting homologous rays of an overlapping pair of images"
+      },
+      {  
+         "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/6/",
+         "code":"video",
+         "idCl":{  
+            "@uri":"http://www.inspire-geoportal.eu/INSPIRECodeLists/resources/codelists/18/values/6/idCl/"
+         },
+         "id":"6",
+         "name":"scene from a video recording"
+      }
+   ]
+}

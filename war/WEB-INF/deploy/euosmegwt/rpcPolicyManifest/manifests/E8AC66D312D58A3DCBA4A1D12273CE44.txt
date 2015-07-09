@@ -1,0 +1,2 @@
+serviceClass: eu.europa.ec.jrc.euosme.gwt.client.InitServiceProxy
+path: 4CE39945E5169AD4EB2EF33236C6788A.gwt.rpc

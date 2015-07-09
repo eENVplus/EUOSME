@@ -1,0 +1,4 @@
+# Module eu.europa.ec.jrc.euosme.gwt.EUOSMEGWT.JUnit
+# RPC service class, partial path of RPC policy file
+eu.europa.ec.jrc.euosme.gwt.client.RESTfulWebServiceProxy, 55A8E5F03F7CFA0256A18FCB58246BA1.gwt.rpc
+com.google.gwt.junit.client.impl.JUnitHost, 72BA4B9FE3B0FB4E8F33CF840AD7E220.gwt.rpc

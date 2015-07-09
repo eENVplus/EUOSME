@@ -1,0 +1,965 @@
+<?xml version="1.0" encoding="UTF-8"?><gmd:MD_Metadata xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://www.isotc211.org/2005/gmd/gmd.xsd" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:geonet="http://www.fao.org/geonetwork">
+<gmd:fileIdentifier>
+<gco:CharacterString>e84d07a8-04b9-4cd1-967e-630e79379766</gco:CharacterString>
+</gmd:fileIdentifier>
+<gmd:language>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="dut">dut</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeSpace="ISOTC211/19115" codeListValue="utf8" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_CharacterSetCode">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:parentIdentifier gco:nilReason="missing">
+</gmd:parentIdentifier>
+<gmd:hierarchyLevel>
+<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+</gmd:hierarchyLevel>
+<gmd:hierarchyLevelName>
+<gco:CharacterString>dataset</gco:CharacterString>
+</gmd:hierarchyLevelName>
+<gmd:contact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>Juliette Dujardin</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing">
+</gmd:facsimile>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint>
+<gco:CharacterString>Kunstlaan 10 - 11</gco:CharacterString>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussel</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>België</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+<gmd:onlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage gco:nilReason="missing">
+</gmd:linkage>
+</gmd:CI_OnlineResource>
+</gmd:onlineResource>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:contact>
+<gmd:dateStamp>
+<gco:DateTime>2014-05-14T14:50:11</gco:DateTime>
+</gmd:dateStamp>
+<gmd:metadataStandardName>
+<gco:CharacterString>ISO 19115/2003/Cor.1:2006</gco:CharacterString>
+</gmd:metadataStandardName>
+<gmd:metadataStandardVersion>
+<gco:CharacterString>GDI-Vlaanderen Best Practices - versie 1.0</gco:CharacterString>
+</gmd:metadataStandardVersion>
+<gmd:referenceSystemInfo>
+<gmd:MD_ReferenceSystem>
+<gmd:referenceSystemIdentifier>
+<gmd:RS_Identifier>
+<gmd:code>
+<gco:CharacterString>4258</gco:CharacterString>
+</gmd:code>
+<gmd:codeSpace>
+<gco:CharacterString>EPSG</gco:CharacterString>
+</gmd:codeSpace>
+</gmd:RS_Identifier>
+</gmd:referenceSystemIdentifier>
+</gmd:MD_ReferenceSystem>
+</gmd:referenceSystemInfo>
+<gmd:identificationInfo>
+<gmd:MD_DataIdentification>
+<gmd:citation>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>luchtkwaliteitszones voor België</gco:CharacterString>
+</gmd:title>
+<gmd:alternateTitle gco:nilReason="missing">
+</gmd:alternateTitle>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2014-01-01</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+<gmd:identifier>
+<gmd:RS_Identifier>
+<gmd:code>
+<gco:CharacterString>3dcb9cac-27ed-4f7b-9aab-7cfdb649e1cc</gco:CharacterString>
+</gmd:code>
+<gmd:codeSpace gco:nilReason="missing">
+</gmd:codeSpace>
+</gmd:RS_Identifier>
+</gmd:identifier>
+<gmd:series>
+<gmd:CI_Series>
+<gmd:name gco:nilReason="missing"/>
+</gmd:CI_Series>
+</gmd:series>
+</gmd:CI_Citation>
+</gmd:citation>
+<gmd:abstract>
+<gco:CharacterString>Deel van het grondgebied van een lidstaat dat door die lidstaat is aangewezen met het oog op luchtkwaliteitsbeoordeling en luchtkwaliteitsbeheer SOURCE: Air Quality Directive (2008/50/EC)</gco:CharacterString>
+</gmd:abstract>
+<gmd:status>
+<gmd:MD_ProgressCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_ProgressCode" codeListValue="completed">completed</gmd:MD_ProgressCode>
+</gmd:status>
+<gmd:pointOfContact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing">
+</gmd:facsimile>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint>
+<gco:CharacterString>Kunstlaan 10-11</gco:CharacterString>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussel</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>België</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+<gmd:onlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://www.irceline.be</gmd:URL>
+</gmd:linkage>
+</gmd:CI_OnlineResource>
+</gmd:onlineResource>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="owner">owner</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:pointOfContact>
+<gmd:pointOfContact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+</gmd:organisationName>
+<gmd:positionName gco:nilReason="missing"/>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing"/>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint>
+<gco:CharacterString>Kunstlaan 10-11</gco:CharacterString>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussel</gco:CharacterString>
+</gmd:city>
+<gmd:administrativeArea gco:nilReason="missing"/>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>België</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="originator">originator</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:pointOfContact>
+<gmd:pointOfContact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+</gmd:organisationName>
+<gmd:positionName gco:nilReason="missing"/>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing"/>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint>
+<gco:CharacterString>Kunstlaan 10-11</gco:CharacterString>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussel</gco:CharacterString>
+</gmd:city>
+<gmd:administrativeArea gco:nilReason="missing"/>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>België</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="custodian">custodian</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:pointOfContact>
+<gmd:resourceMaintenance>
+<gmd:MD_MaintenanceInformation>
+<gmd:maintenanceAndUpdateFrequency>
+<gmd:MD_MaintenanceFrequencyCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_MaintenanceFrequencyCode" codeListValue="asNeeded">asNeeded</gmd:MD_MaintenanceFrequencyCode>
+</gmd:maintenanceAndUpdateFrequency>
+<gmd:dateOfNextUpdate>
+<gco:Date>2014-09-01</gco:Date>
+</gmd:dateOfNextUpdate>
+</gmd:MD_MaintenanceInformation>
+</gmd:resourceMaintenance>
+<gmd:graphicOverview>
+<gmd:MD_BrowseGraphic>
+<gmd:fileName gco:nilReason="missing"/>
+</gmd:MD_BrowseGraphic>
+</gmd:graphicOverview>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword gco:nilReason="">
+<gco:CharacterString>Gebiedsbeheer, gebieden waar beperkingen gelden, gereguleerde gebieden en rapportage-eenheden</gco:CharacterString>
+</gmd:keyword>
+<gmd:type gco:nilReason="missing">
+<gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+</gmd:type>
+<gmd:thesaurusName>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>GEMET - INSPIRE thema&apos;s, versie 1.0</gco:CharacterString>
+</gmd:title>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2008-06-01</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+</gmd:CI_Citation>
+</gmd:thesaurusName>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink">
+<gmd:keyword gco:nilReason="">
+<gco:CharacterString>luchtkwaliteitsbeheer</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="">
+<gco:CharacterString>lucht</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="">
+<gco:CharacterString>EG-richtlijn</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="">
+<gco:CharacterString>rapporteringsproces</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="">
+<gco:CharacterString>gezondheidsbescherming</gco:CharacterString>
+</gmd:keyword>
+<gmd:type gco:nilReason="missing">
+<gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+</gmd:type>
+<gmd:thesaurusName>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>GEMET - Concepten, versie 2.4</gco:CharacterString>
+</gmd:title>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2010-01-13</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+</gmd:CI_Citation>
+</gmd:thesaurusName>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink">
+<gmd:keyword gco:nilReason="missing">
+</gmd:keyword>
+<gmd:type gco:nilReason="missing">
+<gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+</gmd:type>
+<gmd:thesaurusName>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>Vlaamse regio&apos;s</gco:CharacterString>
+</gmd:title>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2013-09-25</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+</gmd:CI_Citation>
+</gmd:thesaurusName>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords>
+<gmd:keyword gco:nilReason="missing">
+</gmd:keyword>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:descriptiveKeywords>
+<gmd:MD_Keywords xmlns:srv="http://www.isotc211.org/2005/srv" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:xlink="http://www.w3.org/1999/xlink">
+<gmd:keyword gco:nilReason="">
+<gco:CharacterString>Metadata GDI-Vl-conform</gco:CharacterString>
+</gmd:keyword>
+<gmd:keyword gco:nilReason="">
+<gco:CharacterString>Metadata INSPIRE-conform</gco:CharacterString>
+</gmd:keyword>
+<gmd:type gco:nilReason="missing">
+<gmd:MD_KeywordTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_KeywordTypeCode" codeListValue=""/>
+</gmd:type>
+<gmd:thesaurusName>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>GDI-Vlaanderen Trefwoorden</gco:CharacterString>
+</gmd:title>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2014-02-26</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+</gmd:CI_Citation>
+</gmd:thesaurusName>
+</gmd:MD_Keywords>
+</gmd:descriptiveKeywords>
+<gmd:resourceSpecificUsage>
+<gmd:MD_Usage>
+<gmd:specificUsage>
+<gco:CharacterString>De zones worden als rapporteringseenheden gebruikt voor de luchtkwaliteit van België naar de EU toe. Deze zones zijn gedefinieerd op basis van het Artikel 3 van de Kaderrichtlijn 2004/107/EC en het Artikel 4 van de Kaderrichtlijn 2008/50/EC, waarin beschreven staat hoe de beoordeling en het beheer van de luchtkwaliteit in het volgend kalenderjaar uitgevoerd zal worden. Een zone is een door een lidstaat met het oog op de beoordeling en het beheer van de luchtkwaliteit afgebakend gedeelte van zijn grondgebied (bron: 2008/50/EC).2008/50/EC Artikel 4: Aanwijzing van zones en agglomeraties: De lidstaten wijzen voor hun hele grondgebied zones en agglomeraties aan. In alle zones en agglomeraties vinden luchtkwaliteitsbeoordeling en luchtkwaliteitsbeheer plaats.</gco:CharacterString>
+</gmd:specificUsage>
+<gmd:userContactInfo>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing"/>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint>
+<gco:CharacterString>Kunstlaan 10 - 11</gco:CharacterString>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussel</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country gco:nilReason="missing"/>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+<gmd:onlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://www.irceline.be</gmd:URL>
+</gmd:linkage>
+</gmd:CI_OnlineResource>
+</gmd:onlineResource>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="user">user</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:userContactInfo>
+</gmd:MD_Usage>
+</gmd:resourceSpecificUsage>
+<gmd:resourceConstraints xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gfc="http://www.isotc211.org/2005/gfc">
+<gmd:MD_Constraints>
+<gmd:useLimitation>
+<gco:CharacterString>De gegevens zijn auteursrechtelijk beschermd. Het gebruik wordt geregeld door middel van een gebruiksovereenkomst. Aangeboden licenties betreffen gebruik zonder commercieel doel en publicatie onder voorwaarden. Voor het gebruik door deelnemers aan GDI-Vlaanderen is, na toevoeging van de dataset aan de GDI-Vlaanderen, het Besluit van de Vlaamse Regering voor toegang tot en gebruik van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI van toepassing. Voor elk ander gebruik dient de gebruiker zich te wenden tot de eigenaar van de gegevens. Eigendom en auteursrechten berusten bij Ircel-Celine.</gco:CharacterString>
+</gmd:useLimitation>
+</gmd:MD_Constraints>
+</gmd:resourceConstraints>
+<gmd:resourceConstraints xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmx="http://www.isotc211.org/2005/gmx" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gfc="http://www.isotc211.org/2005/gfc">
+<gmd:MD_LegalConstraints>
+<gmd:useLimitation>
+<gco:CharacterString>De gegevens zijn auteursrechtelijk beschermd. Het gebruik wordt geregeld door middel van een gebruiksovereenkomst. Aangeboden licenties betreffen gebruik zonder commercieel doel en publicatie onder voorwaarden. Voor het gebruik door deelnemers aan GDI-Vlaanderen is, na toevoeging van de dataset aan de GDI-Vlaanderen, het Besluit van de Vlaamse Regering voor toegang tot en gebruik van de geografische gegevensbronnen en geografische diensten toegevoegd aan de GDI van toepassing. Voor elk ander gebruik dient de gebruiker zich te wenden tot de eigenaar van de gegevens. Eigendom en auteursrechten berusten bij Ircel-Celine.</gco:CharacterString>
+</gmd:useLimitation>
+<gmd:accessConstraints>
+<gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+</gmd:accessConstraints>
+<gmd:otherConstraints>
+<gco:CharacterString>Formele toestemming om iets te doen</gco:CharacterString>
+</gmd:otherConstraints>
+</gmd:MD_LegalConstraints>
+</gmd:resourceConstraints>
+<gmd:aggregationInfo>
+<gmd:MD_AggregateInformation>
+<gmd:aggregateDataSetName>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>Informatie over het beoordelingsregime</gco:CharacterString>
+</gmd:title>
+<gmd:alternateTitle gco:nilReason="missing">
+</gmd:alternateTitle>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2014-01-01</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+<gmd:edition gco:nilReason="missing">
+</gmd:edition>
+<gmd:identifier>
+<gmd:MD_Identifier>
+<gmd:code gco:nilReason="missing">
+</gmd:code>
+</gmd:MD_Identifier>
+</gmd:identifier>
+</gmd:CI_Citation>
+</gmd:aggregateDataSetName>
+<gmd:aggregateDataSetIdentifier>
+<gmd:MD_Identifier>
+<gmd:code gco:nilReason="missing">
+</gmd:code>
+</gmd:MD_Identifier>
+</gmd:aggregateDataSetIdentifier>
+<gmd:associationType>
+<gmd:DS_AssociationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode" codeListValue="crossReference">crossReference</gmd:DS_AssociationTypeCode>
+</gmd:associationType>
+</gmd:MD_AggregateInformation>
+</gmd:aggregationInfo>
+<gmd:aggregationInfo>
+<gmd:MD_AggregateInformation>
+<gmd:aggregateDataSetName>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>Informatie over de beoordelingscriteria</gco:CharacterString>
+</gmd:title>
+<gmd:alternateTitle gco:nilReason="missing">
+</gmd:alternateTitle>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2014-01-01</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+<gmd:edition gco:nilReason="missing">
+</gmd:edition>
+<gmd:identifier>
+<gmd:MD_Identifier>
+<gmd:code gco:nilReason="missing">
+</gmd:code>
+</gmd:MD_Identifier>
+</gmd:identifier>
+</gmd:CI_Citation>
+</gmd:aggregateDataSetName>
+<gmd:aggregateDataSetIdentifier>
+<gmd:MD_Identifier>
+<gmd:code gco:nilReason="missing">
+</gmd:code>
+</gmd:MD_Identifier>
+</gmd:aggregateDataSetIdentifier>
+<gmd:associationType gco:nilReason="missing">
+<gmd:DS_AssociationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#DS_AssociationTypeCode" codeListValue=""/>
+</gmd:associationType>
+</gmd:MD_AggregateInformation>
+</gmd:aggregationInfo>
+<gmd:spatialRepresentationType>
+<gmd:MD_SpatialRepresentationTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_SpatialRepresentationTypeCode" codeListValue="vector">vector</gmd:MD_SpatialRepresentationTypeCode>
+</gmd:spatialRepresentationType>
+<gmd:language>
+<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="dut">dut</gmd:LanguageCode>
+</gmd:language>
+<gmd:characterSet>
+<gmd:MD_CharacterSetCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+</gmd:characterSet>
+<gmd:topicCategory>
+<gmd:MD_TopicCategoryCode>climatologyMeteorologyAtmosphere</gmd:MD_TopicCategoryCode>
+</gmd:topicCategory>
+<gmd:extent>
+<gmd:EX_Extent>
+<gmd:description>
+<gco:CharacterString>Belgisch grondgebied</gco:CharacterString>
+</gmd:description>
+<gmd:geographicElement>
+<gmd:EX_GeographicBoundingBox>
+<gmd:westBoundLongitude>
+<gco:Decimal>2.569033125</gco:Decimal>
+</gmd:westBoundLongitude>
+<gmd:eastBoundLongitude>
+<gco:Decimal>6.50213859375</gco:Decimal>
+</gmd:eastBoundLongitude>
+<gmd:southBoundLatitude>
+<gco:Decimal>49.448337109375</gco:Decimal>
+</gmd:southBoundLatitude>
+<gmd:northBoundLatitude>
+<gco:Decimal>51.579684765625</gco:Decimal>
+</gmd:northBoundLatitude>
+</gmd:EX_GeographicBoundingBox>
+</gmd:geographicElement>
+<gmd:temporalElement>
+<gmd:EX_TemporalExtent>
+<gmd:extent>
+<gml:TimePeriod gml:id="ID_1">
+<gml:beginPosition>2011-12-12</gml:beginPosition>
+<gml:endPosition>2011-12-12</gml:endPosition>
+</gml:TimePeriod>
+</gmd:extent>
+</gmd:EX_TemporalExtent>
+</gmd:temporalElement>
+<gmd:verticalElement>
+<gmd:EX_VerticalExtent>
+<gmd:minimumValue gco:nilReason="missing"/>
+<gmd:maximumValue gco:nilReason="missing"/>
+<gmd:verticalCRS>
+<gml:VerticalCRS gml:id="VCRS_01">
+<gml:identifier codeSpace=""/>
+<gml:verticalCS nilReason="missing"/>
+<gml:verticalDatum nilReason="missing"/>
+</gml:VerticalCRS>
+</gmd:verticalCRS>
+</gmd:EX_VerticalExtent>
+</gmd:verticalElement>
+</gmd:EX_Extent>
+</gmd:extent>
+</gmd:MD_DataIdentification>
+</gmd:identificationInfo>
+<gmd:contentInfo>
+<gmd:MD_FeatureCatalogueDescription>
+<gmd:includedWithDataset>
+<gco:Boolean>true</gco:Boolean>
+</gmd:includedWithDataset>
+<gmd:featureCatalogueCitation uuidref=""/>
+</gmd:MD_FeatureCatalogueDescription>
+</gmd:contentInfo>
+<gmd:distributionInfo>
+<gmd:MD_Distribution>
+<gmd:distributionFormat>
+<gmd:MD_Format>
+<gmd:name>
+<gco:CharacterString>GML</gco:CharacterString>
+</gmd:name>
+<gmd:version gco:nilReason="missing">
+<gco:CharacterString>unknown</gco:CharacterString>
+</gmd:version>
+</gmd:MD_Format>
+</gmd:distributionFormat>
+<gmd:distributor>
+<gmd:MD_Distributor>
+<gmd:distributorContact>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName gco:nilReason="missing">
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing"/>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint>
+<gco:CharacterString>Kunstlaan 10 - 11</gco:CharacterString>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussel</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>België</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+<gmd:onlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://www.irceline.be</gmd:URL>
+</gmd:linkage>
+</gmd:CI_OnlineResource>
+</gmd:onlineResource>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="distributor">distributor</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:distributorContact>
+<gmd:distributionOrderProcess>
+<gmd:MD_StandardOrderProcess>
+<gmd:fees gco:nilReason="missing">
+</gmd:fees>
+<gmd:orderingInstructions gco:nilReason="missing">
+</gmd:orderingInstructions>
+<gmd:turnaround gco:nilReason="missing">
+</gmd:turnaround>
+</gmd:MD_StandardOrderProcess>
+</gmd:distributionOrderProcess>
+</gmd:MD_Distributor>
+</gmd:distributor>
+<gmd:transferOptions>
+<gmd:MD_DigitalTransferOptions>
+<gmd:unitsOfDistribution gco:nilReason="missing">
+</gmd:unitsOfDistribution>
+<gmd:transferSize>
+<gco:Real>0</gco:Real>
+</gmd:transferSize>
+<gmd:onLine>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://cdr.eionet.europa.eu/be/eu/aqd/b/envuuglga/B_BE_2014-prelim.gml</gmd:URL>
+</gmd:linkage>
+<gmd:protocol gco:nilReason="missing">
+</gmd:protocol>
+<gmd:name gco:nilReason="missing">
+</gmd:name>
+<gmd:description gco:nilReason="missing">
+</gmd:description>
+</gmd:CI_OnlineResource>
+</gmd:onLine>
+<gmd:offLine>
+<gmd:MD_Medium>
+<gmd:name gco:nilReason="missing">
+<gmd:MD_MediumNameCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_MediumNameCode" codeListValue=""/>
+</gmd:name>
+</gmd:MD_Medium>
+</gmd:offLine>
+</gmd:MD_DigitalTransferOptions>
+</gmd:transferOptions>
+</gmd:MD_Distribution>
+</gmd:distributionInfo>
+<gmd:dataQualityInfo>
+<gmd:DQ_DataQuality>
+<gmd:scope>
+<gmd:DQ_Scope>
+<gmd:level>
+<gmd:MD_ScopeCode codeListValue="dataset" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_ScopeCode">dataset</gmd:MD_ScopeCode>
+</gmd:level>
+</gmd:DQ_Scope>
+</gmd:scope>
+<gmd:report>
+<gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+<gmd:measureIdentification>
+<gmd:RS_Identifier>
+<gmd:code>
+<gco:CharacterString>BE_CELINE-IRCEL_20131218</gco:CharacterString>
+</gmd:code>
+<gmd:codeSpace gco:nilReason="missing">
+</gmd:codeSpace>
+</gmd:RS_Identifier>
+</gmd:measureIdentification>
+<gmd:measureDescription gco:nilReason="missing">
+</gmd:measureDescription>
+<gmd:dateTime>
+</gmd:dateTime>
+<gmd:result>
+<gmd:DQ_ConformanceResult xsi:type="gmd:DQ_ConformanceResult_Type">
+<gmd:specification>
+<gmd:CI_Citation>
+<gmd:title>
+<gco:CharacterString>VERORDENING (EU) Nr. 1089/2010 VAN DE COMMISSIE van 23 november 2010 ter uitvoering van Richtlijn 2007/2/EG van het Europees Parlement en de Raad betreffende de interoperabiliteit van verzamelingen ruimtelijke gegevens en van diensten met betrekking tot ruimtelijke gegevens</gco:CharacterString>
+</gmd:title>
+<gmd:alternateTitle gco:nilReason="missing">
+</gmd:alternateTitle>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date>2014-01-01</gco:Date>
+</gmd:date>
+<gmd:dateType>
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+</gmd:CI_Citation>
+</gmd:specification>
+<gmd:explanation gco:nilReason="missing">
+<gco:CharacterString>See the referenced specification</gco:CharacterString>
+</gmd:explanation>
+<gmd:pass>
+<gco:Boolean>true</gco:Boolean>
+</gmd:pass>
+</gmd:DQ_ConformanceResult>
+</gmd:result>
+</gmd:DQ_DomainConsistency>
+</gmd:report>
+<gmd:lineage>
+<gmd:LI_Lineage>
+<gmd:statement>
+<gco:CharacterString>Dataset is aangemaakt in het kader van de 2008/50/EC kaderrichtlijn.</gco:CharacterString>
+</gmd:statement>
+<gmd:processStep>
+<gmd:LI_ProcessStep>
+<gmd:description gco:nilReason="missing">
+</gmd:description>
+<gmd:dateTime gco:nilReason="missing"/>
+<gmd:processor>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing"/>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint>
+<gco:CharacterString>Kunstlaan 10 - 11</gco:CharacterString>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussel</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>België</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+<gmd:onlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://www.irceline.be</gmd:URL>
+</gmd:linkage>
+</gmd:CI_OnlineResource>
+</gmd:onlineResource>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role>
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="processor">processor</gmd:CI_RoleCode>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:processor>
+</gmd:LI_ProcessStep>
+</gmd:processStep>
+<gmd:source>
+<gmd:LI_Source>
+<gmd:description>
+<gco:CharacterString>Dataset is aangemaakt in het kader van de 2008/50/EC kaderrichtlijn. Het Belgisch grondgebied is onderverdeeld in luchtkwaliteitszones volgens de aanwijzingen opgelijst in de 2008/50/EC kaderrichtlijn.</gco:CharacterString>
+</gmd:description>
+<gmd:sourceStep>
+<gmd:LI_ProcessStep>
+<gmd:description gco:nilReason="missing">
+</gmd:description>
+<gmd:dateTime gco:nilReason="missing"/>
+<gmd:processor>
+<gmd:CI_ResponsibleParty>
+<gmd:individualName>
+<gco:CharacterString>Frans Fierens</gco:CharacterString>
+</gmd:individualName>
+<gmd:organisationName>
+<gco:CharacterString>IRCEL-CELINE</gco:CharacterString>
+</gmd:organisationName>
+<gmd:contactInfo>
+<gmd:CI_Contact>
+<gmd:phone>
+<gmd:CI_Telephone>
+<gmd:voice>
+<gco:CharacterString>+(32)(0)2 227 57 01(0)2 227 57 01</gco:CharacterString>
+</gmd:voice>
+<gmd:facsimile gco:nilReason="missing"/>
+</gmd:CI_Telephone>
+</gmd:phone>
+<gmd:address>
+<gmd:CI_Address>
+<gmd:deliveryPoint>
+<gco:CharacterString>Kunstlaan 10 - 11</gco:CharacterString>
+</gmd:deliveryPoint>
+<gmd:city>
+<gco:CharacterString>Brussel</gco:CharacterString>
+</gmd:city>
+<gmd:postalCode>
+<gco:CharacterString>1210</gco:CharacterString>
+</gmd:postalCode>
+<gmd:country>
+<gco:CharacterString>België</gco:CharacterString>
+</gmd:country>
+<gmd:electronicMailAddress>
+<gco:CharacterString>info@irceline.be</gco:CharacterString>
+</gmd:electronicMailAddress>
+</gmd:CI_Address>
+</gmd:address>
+<gmd:onlineResource>
+<gmd:CI_OnlineResource>
+<gmd:linkage>
+<gmd:URL>http://www.irceline.be</gmd:URL>
+</gmd:linkage>
+</gmd:CI_OnlineResource>
+</gmd:onlineResource>
+</gmd:CI_Contact>
+</gmd:contactInfo>
+<gmd:role gco:nilReason="missing">
+<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue=""/>
+</gmd:role>
+</gmd:CI_ResponsibleParty>
+</gmd:processor>
+</gmd:LI_ProcessStep>
+</gmd:sourceStep>
+</gmd:LI_Source>
+</gmd:source>
+</gmd:LI_Lineage>
+</gmd:lineage>
+</gmd:DQ_DataQuality>
+</gmd:dataQualityInfo>
+<gmd:applicationSchemaInfo>
+<gmd:MD_ApplicationSchemaInformation>
+<gmd:name>
+<gmd:CI_Citation>
+<gmd:title gco:nilReason="missing">
+</gmd:title>
+<gmd:alternateTitle gco:nilReason="missing">
+</gmd:alternateTitle>
+<gmd:date>
+<gmd:CI_Date>
+<gmd:date>
+<gco:Date xsi:nil="true"/>
+</gmd:date>
+<gmd:dateType gco:nilReason="missing">
+<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue=""/>
+</gmd:dateType>
+</gmd:CI_Date>
+</gmd:date>
+</gmd:CI_Citation>
+</gmd:name>
+<gmd:schemaLanguage gco:nilReason="missing">
+</gmd:schemaLanguage>
+<gmd:constraintLanguage gco:nilReason="missing">
+</gmd:constraintLanguage>
+</gmd:MD_ApplicationSchemaInformation>
+</gmd:applicationSchemaInfo>
+</gmd:MD_Metadata>

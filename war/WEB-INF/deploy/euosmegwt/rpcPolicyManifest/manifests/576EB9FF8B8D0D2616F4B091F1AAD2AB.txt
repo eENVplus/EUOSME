@@ -1,0 +1,2 @@
+serviceClass: eu.europa.ec.jrc.euosme.gwt.client.RESTfulWebServiceProxy
+path: 609515F59E6A3409B87EABA75A4F8F80.gwt.rpc

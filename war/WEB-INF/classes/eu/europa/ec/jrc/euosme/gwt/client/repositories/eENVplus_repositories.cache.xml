@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type='text/xsl' href='/openrdf-workbench/transformations/tuple.xsl'?>
+<sparql xmlns="http://www.w3.org/2005/sparql-results#" xmlns:q="http://www.openrdf.org/schema/qname#">
+    <head>
+        <variable name="v"/>
+        <variable name="l"/>
+        <variable name="d"/>
+        <link href="info"/>
+    </head>
+    <results ordered="false" distinct="false">
+        <result>
+            <binding name="v">
+                <uri>http://linkeddata.ge.imati.cnr.it:2020/tfes/rest/</uri>
+            </binding>
+            <binding name="l">
+                <literal xml:lang="en">eENVplus - getSuggestions (http://linkeddata.ge.imati.cnr.it), version 1.0</literal>
+            </binding>
+            <binding name="d">
+                <literal xml:lang="en">2014-07-31</literal>
+            </binding>
+        </result>    
+    </results>
+</sparql>
